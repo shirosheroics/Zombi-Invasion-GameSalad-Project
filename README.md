@@ -10,3 +10,5 @@ The level will have 2 different layers with 5 traps spread out between them. On 
 A third layer will be added along with two more traps. The speed of the zombies will be increased.
 #### Level Three
 A new kind of zombie will be introduced; it will need two hits from the traps to be killed. Also, the number of lives will increase
+
+##### The materials and images used belong to their respective owners 
